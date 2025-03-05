@@ -1,4 +1,4 @@
-# meu-modelo-predicao
+# meu-modelo-predicao / Machine Learning
 
 Primeiro, criei um repositório no GitHub para armazenar todo o código e material do projeto. Em seguida, usei o **Azure AI Services** para criar um modelo de previsão de aluguéis de bicicletas com base em dados históricos. Dentro do portal do Azure, configurei um **workspace** do Azure Machine Learning para organizar todos os recursos necessários. No Azure Machine Learning Studio, criei um novo job de **Automated Machine Learning** com o objetivo de prever os aluguéis de bicicletas com base em dados como temperatura, dia da semana e outros fatores meteorológicos.
 
